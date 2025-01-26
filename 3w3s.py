@@ -1,5 +1,6 @@
-names=["John","Alice","Natalie"]
-x,y,z = names
-print(x)
-print(y)
-print(z)
+def myfunc():
+    5>7
+if myfunc():
+    print("YES!")
+else:
+    print("NO!")

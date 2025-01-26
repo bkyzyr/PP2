@@ -1,3 +1,4 @@
-c ="Hello world"
-print(c[4] in c)
-print(c[-5:-2])
+first = ["Anne", "Hannah", "John"]
+second = [5 ,2 ,6 ,3]
+print(len(first))
+print(len(second))
