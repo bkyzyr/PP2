@@ -10,5 +10,3 @@ if x > 10:
 for x in range(1, 31, 2):
   print(x)
 
-  adj = ["yellow", "small", "tasty"]
-fruits = ["pineapple", "banana", "watermelon"]
