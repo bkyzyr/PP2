@@ -1,7 +1,7 @@
 def func(nums):
     uslovie = [0, 0, 7]
     index = 0
-
+ 
     for input in nums:
         if input == uslovie[index]:
             index += 1
